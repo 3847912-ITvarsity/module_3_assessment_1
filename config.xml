@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.online.itvarsity.org"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>My Recipe App</name>
+
+  <description>
+     EXPLORE!
+  </description>
+
+  <author href="https://online.itvarsity.org" email="3847912@myuwc.ac.za">
+      Phindile Ngutha
+  </author>
+
+</widget>
